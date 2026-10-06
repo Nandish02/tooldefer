@@ -1,0 +1,8 @@
+mlx==0.32.3
+mlx-lm==0.32.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+matplotlib==3.11.2
+openai
+pytest
